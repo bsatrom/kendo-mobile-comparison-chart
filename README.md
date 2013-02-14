@@ -1,0 +1,2 @@
+kendo-mobile-comparison-chart
+=============================
