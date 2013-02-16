@@ -23,7 +23,7 @@
 
     "php": "soon",
     "java": "true",
-    "ruby": "partial",
+    "ruby": "partially",
     "actionscript": "none",
     "csharp": "true",
     "lua": "none",
@@ -61,5 +61,5 @@
     "ads": "false",
 
     "free": "false",
-    "opensource": "partial"
+    "opensource": "partially"
 }
