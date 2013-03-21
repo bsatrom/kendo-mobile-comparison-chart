@@ -1,13 +1,13 @@
 {
     "framework": "Kendo UI",
     "url": "http://www.kendoui.com",
-    "framework_current_version" : "2012.3.1315",
-    "comparison_data_last_update" : "2012.3.1114",
+    "framework_current_version" : "2012.3.1114",
+    "comparison_data_last_update" : "2012.1.0320",
 
     "ios":"true",
     "android":"true",
     "windowsmobile":"false",
-    "windowsphone":"soon",
+    "windowsphone":"true",
     "blackberry":"true",
     "symbian":"none",
     "meego": "true",
@@ -21,7 +21,7 @@
     "nativeapp": "false",
     "hybridapp": "true",
 
-    "php": "soon",
+    "php": "true",
     "java": "true",
     "ruby": "partially",
     "actionscript": "none",
