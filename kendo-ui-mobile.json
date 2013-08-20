@@ -1,8 +1,8 @@
 {
     "framework": "Kendo UI",
     "url": "http://www.kendoui.com",
-    "framework_current_version" : "2012.3.1114",
-    "comparison_data_last_update" : "2012.1.0320",
+    "framework_current_version" : "2013.2.716",
+    "comparison_data_last_update" : "2013.1.319",
 
     "ios":"true",
     "android":"true",
@@ -31,7 +31,7 @@
     "css": "true",
     "js": "true",
     "cplusplus": "false",
-    "visualeditor": "soon",
+    "visualeditor": "true",
 
     "accelerometer": "false",
     "camera": "false",
@@ -51,7 +51,6 @@
     "nfc": "false",
     "vibration": "false",
     
-
     "cd": "false",
     "widgets": "true",
     "accessibility": "true",
